@@ -1,0 +1,14 @@
+.Header-Image {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 2em;
+    display: block;
+}
+.Pengarang{
+    width: 50%;
+    /* float: left; */
+}
+.p {
+    float: left;
+}
